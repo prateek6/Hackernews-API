@@ -6,6 +6,8 @@
 
 - /past-stories — returns all the past top stories that were served previously.
 
+![hacker news](https://user-images.githubusercontent.com/12758437/85059555-74868980-b1c1-11ea-9450-90b1e424e767.png)
+
 Project configuration:
 1. Change log path file in logback.xml  
   `<property name="LOG_PATH" value="Replace file path here"/>`
