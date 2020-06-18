@@ -1,6 +1,5 @@
 <configuration>
-    <property name="LOG_PATH" value="/home/paras/v3-docs/server_log"/>
-    <!--<property name="LOG_PATH" value="/home/omotoadmin/v3-docs/server_log"/>-->
+    <property name="LOG_PATH" value="/home/prateek/v3-docs/server_log"/>
     <property name="PATTERN" value="%d{dd-MM-yyyy HH:mm:ss.SSS} %magenta([%thread]) %highlight(%-5level) %logger.%M - %msg%n"/>
 
     <timestamp key="byDay" datePattern="yyyyMMdd'T'HHmmss"/>
