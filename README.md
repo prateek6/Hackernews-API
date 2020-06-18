@@ -20,3 +20,6 @@ Project configuration:
 -   spring.datasource.url = jdbc:mysql://localhost:3306/hackernews?autoReconnect=true
 -   spring.datasource.username=root
 -   spring.datasource.password =password
+
+4. To run the project use this command
+  - `./gradlew bootRun`
